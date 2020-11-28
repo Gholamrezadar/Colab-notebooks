@@ -17,7 +17,7 @@ Multiple linear regression for natural language processing (NLP) course
 Logistic regression example with scikit learn
 
 ### NLP_tamrin_2B_gholamrezadar_96405037.ipynb
-Deep nueral network example with Keras
+Deep neural network example with Keras
 
 ### NLP_tamrin_3_gholamrezadar_96405037.ipynb
 Various Regex examples
