@@ -27,3 +27,14 @@ Various Regex examples
 - frequencies
 - normalizing persian text
 - lemmatization etc.
+
+### Data_Mining_Project_Parkinson_Detectors_Comparison.ipynb
+Following Algorithms/methods are used to predict Parkinson's disease
+- KNN (K nearest neighbours)
+- SVM (Support vector machines)
+- Logistic regression
+- Naive bayes
+- Decision trees
+- Random Forest
+- Neureal networks
+section 3 offers a report that compares these methods.
